@@ -116,6 +116,29 @@ export const resumeData = {
       endDate: "",
     },
     {
+      title: "Parallel Label Propagation",
+      description:
+        "Implemented a parallel label propagation algorithm with Open MPI.",
+      tags: ["Parallel Computing", "HPC", "Label Propagation"],
+      technologies: [],
+      details: [],
+      source: "https://github.com/jxianc/lp-mpi",
+      demo: "",
+      startDate: "",
+      endDate: "",
+    },
+    {
+      title: "Parallel Quick Sort",
+      description: "Implemented a parallel quick sort algorithm with Open MPI.",
+      tags: ["Parallel Computing", "HPC", "Quick Sort"],
+      technologies: [],
+      details: [],
+      source: "https://github.com/jxianc/qs-mpi",
+      demo: "",
+      startDate: "",
+      endDate: "",
+    },
+    {
       title: "Recommendation System",
       description:
         "Developed an item-based collaborative filtering recommendation system to predict the user and business ratings",
@@ -161,6 +184,8 @@ export const resumeData = {
       "Distributed System",
       "Recommender System",
       "Database",
+      "Parallel Computing",
+      "High Performance Computing",
     ],
     languages: [
       "TypeScript",
