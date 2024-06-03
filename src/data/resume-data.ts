@@ -62,7 +62,7 @@ export const resumeData = {
         "AWS S3",
       ],
       summary:
-        "Revamped the e-commerce website using Next.js, reducing page load time by 50%, improving customer experience.",
+        "Migrated the e-commerce website and improved the user experience using modern web frameworks and technologies, reducing page load time by 50%",
       description: [],
     },
     {
