@@ -3,11 +3,11 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon"
 import { XIcon } from "@/components/icons/XIcon"
 
 export const resumeData = {
-  name: "Jingxian Chai",
+  name: "Jing Xian Chai",
   title: "Software Engineer",
   about:
     "As a software engineer and a recent Computer Science graduate, I am passionate about software engineering and machine learning and interested in solving problems with technologies. I am actively seeking software engineering opportunities to contribute my skills, continue learning, and grow.",
-  location: "Minneapolis, MN",
+  location: "Kuala Lumpur, Malaysia",
   locationLink: "https://www.google.com/maps/place/minneapolis",
   avatarUrl: "https://avatars.githubusercontent.com/u/62977699?v=4",
   initials: "jxc",
@@ -44,7 +44,7 @@ export const resumeData = {
   workExperience: [
     {
       position: "Full-stack Engineer",
-      company: "Yiy Sing Toys",
+      company: "Yiy Sing",
       location: "Malaysia",
       locationLink: "https://www.google.com/maps/place/malaysia",
       startDate: "May",
