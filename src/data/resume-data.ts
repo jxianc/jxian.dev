@@ -8,7 +8,7 @@ export const resumeData = {
   about:
     "As a software engineer and a recent Computer Science graduate, I am passionate about software engineering and machine learning and interested in solving problems with technologies. I am actively seeking software engineering opportunities to contribute my skills, continue learning, and grow.",
   location: "Kuala Lumpur, Malaysia",
-  locationLink: "https://www.google.com/maps/place/minneapolis",
+  locationLink: "https://www.google.com/maps/place/kuala+lumpur",
   avatarUrl: "https://avatars.githubusercontent.com/u/62977699?v=4",
   initials: "jxc",
   email: "jingxianchai01@gmail.com",
@@ -32,7 +32,7 @@ export const resumeData = {
   education: [
     {
       schoool: "University of Minnesota, Twin Cities",
-      location: "Minneapolis, MN",
+      location: "Minneapolis, MN, US",
       locationLink: "https://www.google.com/maps/place/minneapolis",
       degree: "Bachelor of Science, Computer Science",
       startDate: "Sep 2021",
@@ -69,7 +69,7 @@ export const resumeData = {
       position: "Full-stack Intern",
       company: "OneCommons",
       companyLink: "https://www.onecommons.org/",
-      location: "San Francisco, CA",
+      location: "San Francisco, CA, US",
       locationLink: "https://www.google.com/maps/place/san+francisco",
       startDate: "May",
       endDate: "Jul 2022",
